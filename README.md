@@ -69,3 +69,14 @@
 - [steedos-platform](https://github.com/steedos/steedos-platform)
 
   > 华炎魔方低代码平台，元数据驱动，前端 amis，后端 nodejs
+
+### Feature
+
+- [ ] 是否支持联网，同步操作记录，涉及服务端接口开发
+- [ ] 支持生成哪些平台（PC、H5、客户端）
+- [ ] 物料库搭建
+- [ ] 物料拖拽生成UI界面
+- [ ] UI控件基本属性配置
+- [ ] 支持创建新页面
+- [ ] 技术栈：Vue3 + Vite + element-plus + typescript
+- [ ] 界面描述JSON配置
